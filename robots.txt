@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anginert.github.io/sitemap.html.gz
+Sitemap: https://anginert.github.io/app/sitemap.html.gz
+Sitemap: https://anginert.github.io/assets/sitemap.html.gz
+Sitemap: https://anginert.github.io/css/sitemap.html.gz
+Sitemap: https://anginert.github.io/includes/sitemap.html.gz
+Sitemap: https://anginert.github.io/item/sitemap.html.gz
+Sitemap: https://anginert.github.io/src/sitemap.html.gz
